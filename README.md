@@ -1,6 +1,6 @@
 # Responsive Website 🌐✨
 
-![Preview Image](https://github.com/user-attachments/assets/820c2342-604c-4628-834e-39537465eebf)
+![Preview Image](https://github.com/user-attachments/assets/99fdc040-e089-4ad1-9bce-92cb403922cf)
 
 ## Live Demo
 Check out the live demo here: [Demo Link](https://novabankgb.netlify.app/) 🚀
