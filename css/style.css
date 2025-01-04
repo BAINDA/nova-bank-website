@@ -701,3 +701,19 @@ h4 {
   font-weight: 400;
   padding: 2rem;
 }
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #333;
+}
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 8px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #5ec576;
+}
